@@ -2,7 +2,7 @@
 Mais um desafio do projeto #BoraCodar da rocketseat! 🎉
 
 
-Dessa vez o desafio foi ddesenvolverum site apresentando um produto. No site contém iinformaçõesdo produto e o mais legal, você tem a opção de visualizar o produto em 360
+Dessa vez o desafio foi desenvolver um site apresentando um produto. No site contém informações do produto e o mais legal, você tem a opção de visualizar o produto em 360
 
 [veja o projeto aqui!](https://gabriel-vitebo.github.io/BoraCodar-desafio-02-Product/) 💻📱
 
